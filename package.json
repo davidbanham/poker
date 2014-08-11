@@ -18,6 +18,9 @@
   "devDependencies": {
     "coffee-script": "~1.7.1"
   },
+  "bin": {
+    "poker": "wrapper.js"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/davidbanham/poker"
