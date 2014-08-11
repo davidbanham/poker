@@ -1,5 +1,5 @@
 {
-  "name": "poker",
+  "name": "jsonpoker",
   "version": "0.0.0",
   "description": "Awesome JSON investigation with Coffeescript",
   "main": "wrapper.js",
