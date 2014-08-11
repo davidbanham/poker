@@ -1,0 +1,28 @@
+{
+  "name": "poker",
+  "version": "0.0.0",
+  "description": "Awesome JSON investigation with Coffeescript",
+  "main": "wrapper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "json"
+  ],
+  "author": "david@banham.id.au",
+  "license": "BSD",
+  "dependencies": {
+    "coffee-script": "~1.7.1",
+    "nesh": "~1.5.0"
+  },
+  "devDependencies": {
+    "coffee-script": "~1.7.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/davidbanham/poker"
+  },
+  "bugs": {
+    "url": "https://github.com/davidbanham/poker/issues"
+  }
+}
